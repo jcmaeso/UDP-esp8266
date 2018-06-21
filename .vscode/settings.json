@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\jcala\\.platformio\\penv\\Scripts;C:\\Users\\jcala\\.platformio\\penv;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\MATLAB\\R2018a\\runtime\\win64;C:\\Program Files\\MATLAB\\R2018a\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files\\doxygen\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Users\\jcala\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\jcala\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\jcala\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\jcala\\AppData\\Roaming\\npm;C:\\SysGCC\\raspberry\\bin;C:\\Program Files\\heroku\\bin;C:\\Users\\jcala\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Program Files (x86)\\Nmap;C:\\cygwin64\\bin;C:\\MinGW\\bin;;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\MATLAB\\R2018a\\runtime\\win64;C:\\Program Files\\MATLAB\\R2018a\\bin;C:\\Program Files\\Git\\cmd;C:\\Program Files\\nodejs\\;C:\\Program Files\\doxygen\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Users\\jcala\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\jcala\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\jcala\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\jcala\\AppData\\Roaming\\npm;C:\\SysGCC\\raspberry\\bin;C:\\Program Files\\heroku\\bin;C:\\Users\\jcala\\AppData\\Local\\Programs\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Program Files (x86)\\Nmap;C:\\cygwin64\\bin;C:\\MinGW\\bin;",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "uart.h": "c",
+        "osapi.h": "c",
+        "mem.h": "c",
+        "espconn.h": "c"
+    }
+}
